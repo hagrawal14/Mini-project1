@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./project_login.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.css">
+</head>
+<body>
+    
+        
+    <div id="content-container">
+        <div id="form-conatainer">
+            <div id="form-head-con">
+                <h2 id="form-header">Login</h2>
+            </div>
+            <div id="form-content">
+                <div id="form-inner-con">
+                    <input type="text" id="firstname" placeholder="First Name" class="login-input">
+                    <input type="text" id="lastname" placeholder="Last Name" class="login-input">
+                    <input type="email" name="" id="email" placeholder="Email" class="login-input">
+                    <input type="password" name="" id="password" placeholder="Password" class="login-input">
+                    <i class="fa fa-eye" aria-hidden="true" id="togglePassword"></i>
+                    <!-- <button id="signinwithgoogle">
+                        <img src="./Images/google logo.png" alt="">
+                        Login with your google
+                    </button> -->
+                    <div id="btn-container">
+                        <button id="login"><a href="#">Sign in</a> </button>
+                        <button id="register"><a href="#">Sign up</a> </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="./firebase.js"></script>
+    <script src="./toggle.js"></script>
+</body>
+</html>
