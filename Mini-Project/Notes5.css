@@ -1,0 +1,32 @@
+body{
+    background-color: gainsboro;
+}
+div{
+    margin-left: 20%;
+    margin-right:20%;
+}
+p{
+    font-size: larger;
+    color: brown;
+
+}
+p:hover{
+    border: solid 20px;
+    color:seagreen;
+    background-color:black;
+}
+a:hover{
+    color:brown
+   
+ }
+ img:hover{
+     background-color: red;
+   
+ }
+ table{
+     margin-left: 20%;
+ }
+ main2{
+     
+ }
+

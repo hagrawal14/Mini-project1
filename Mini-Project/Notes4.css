@@ -1,0 +1,69 @@
+body{
+    background-color:gainsboro;
+}
+div{
+    margin-left: 20%;
+    margin-right:20%;
+    font-size: larger;
+}
+P{
+    color:black;
+}
+p:hover{
+    background-color: #D4F4EC;
+    color:black;
+    border: solid 5px ;
+    border-color:papayawhip;
+   
+    
+}
+h2 ,h3,h4{
+    color:brown;
+}
+h3:hover{
+    background-color: aquamarine;
+    border:solid 20px;
+  
+}
+a{
+    color:brown;
+}
+a:hover{
+   color:brown;
+  
+}
+img:hover{
+    background-color: red;
+  
+}
+table{
+    margin-left: 20%;
+}
+li{
+    color:black;
+}
+li:hover{
+    background-color: crimson;
+    border:20px solid;
+    color:seashell;
+}
+h3:hover{
+    background-color: aquamarine;
+    border:solid 20px;
+  
+}
+a{
+    color:brown;
+}
+a:hover{
+   color:brown
+  
+}
+img:hover{
+    background-color: red;
+  
+}
+table{
+    margin-left: 20%;
+}
+

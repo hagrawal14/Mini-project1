@@ -1,0 +1,56 @@
+body{
+    background-color: gainsboro;
+}
+.header{
+    height: 50px;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding-left: 40%;
+}
+
+.main{
+    height:100%;
+    margin-left: 10%;
+    margin-right: 20%;
+   
+}
+.div1{
+    border: solid;
+    background-color: silver;
+    height:50px;
+    width:80%
+}
+.div2{
+    background-color: lightgreen;
+    margin-left: 100px;
+    padding: 10px;
+    text-align: center;
+    display:inline-block;
+}
+.div3{
+    background-color: yellow;
+    margin-left: 100px;
+    padding: 20px;
+    text-align: center;
+    display:block;
+}
+p:hover{
+    background-color: red;
+    color:green;
+    border:solid 20px;
+}
+h3:hover{
+    background-color: aquamarine;
+  
+}
+a:hover{
+   color:brown
+  
+}
+img:hover{
+    background-color: red;
+  
+}
+table{
+    margin-left: 20%;
+}

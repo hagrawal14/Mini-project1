@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+.header{
+  height: 50px;
+  background-color: lightgray;
+  border-radius: 10px;
+  padding-left: 40%;
+}
+
+.main{
+  height:100%;
+  margin-left: 10%;
+  margin-right: 20%;
+ 
+}
+.div1{
+  border: solid;
+  background-color: lightblue;
+  height:100px;
+    width:80%
+}
